@@ -5,7 +5,11 @@
     "description": "This system provides geolocalization for remote assistance to a vehicle or driver in trouble."
   },
   "detail": {
-    "contributors": [],
+    "contributors": [
+      {
+        "name": "Mr.Contributor"
+      }
+    ],
     "diagrams": [
       {
         "title": "High-level threat modelling",
